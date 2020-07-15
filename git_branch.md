@@ -19,13 +19,13 @@
 ## Checkout an existing branch by name.
 * git checkout your-branch-name
 ----------------------------------------------------------------------
-# Push branch to remote.
+## Push branch to remote.
 * git push origin branch_name
 ----------------------------------------------------------------------
-# Rename current branch.
+## Rename current branch.
 * git branch -m new_name
 ----------------------------------------------------------------------
-# Delete a local branch.
+## Delete a local branch.
 * git branch -d branch_name
-# Delete a remote branch.
+## Delete a remote branch.
 * git push origin :branch_name
