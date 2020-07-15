@@ -15,6 +15,7 @@
  ---------------------------------------------------------------------
 ## Show who changed what & when in a file.
 * git blame myfile
+ ---------------------------------------------------------------------
 ## Show remote branches and their mapping to local.
 * git remote show origin  
 
